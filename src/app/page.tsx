@@ -4,7 +4,7 @@ import Layout from './dashboard/layout'
 
 const Home = () => {
   return (
-    <Layout />
+    <Layout children={undefined} />
   )
 }
 
